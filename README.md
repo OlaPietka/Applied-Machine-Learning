@@ -8,3 +8,7 @@ Implementation of various of algorithms described in "Applied Machine Learning" 
 ## Mean Field
 **What can you expect**: Mean Field Inference for denoising binary images with Boltzmann Machines on MNIST data
 ![image](https://user-images.githubusercontent.com/36880623/173245666-07a119f0-6880-44e1-b600-16a34a511b33.png)
+
+## EM for Topic Models
+**What can you expect**: Implementation of the Topic Model EM algorithm and vizualisation of topic frequencies
+![image](https://user-images.githubusercontent.com/36880623/173439125-f9aad624-3278-48fa-9455-3b3f93e9ac6d.png)
