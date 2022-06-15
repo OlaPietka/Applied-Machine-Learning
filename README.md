@@ -24,3 +24,9 @@ Implementation of the Topic Model EM algorithm and vizualisation of topic freque
 Agglomerative clustering and k-means clustering
 #### Some results
 ![image](https://user-images.githubusercontent.com/36880623/173624579-37154569-33bf-4e6c-967b-72b5c0f3c3b2.png)
+
+## High Dimensional Classification
+#### What can you expect
+Classification of high dim. data with vector quantization
+#### Some results
+![image](https://user-images.githubusercontent.com/36880623/173939846-59042174-a7e1-4145-889e-edb224d55517.png)
