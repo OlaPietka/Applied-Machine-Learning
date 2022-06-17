@@ -30,3 +30,10 @@ Agglomerative clustering and k-means clustering
 Classification of high dim. data with vector quantization
 #### Some results
 ![image](https://user-images.githubusercontent.com/36880623/173939846-59042174-a7e1-4145-889e-edb224d55517.png)
+
+## Regression
+#### What can you expect
+Building of linear regression and ploting the residuals for 3 different problems
+#### Some results
+![image](https://user-images.githubusercontent.com/36880623/174394671-70470c1b-7419-4e52-84c2-505bde9f7937.png)
+
