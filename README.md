@@ -37,3 +37,9 @@ Building of linear regression and ploting the residuals for 3 different problems
 #### Some results
 ![image](https://user-images.githubusercontent.com/36880623/174394671-70470c1b-7419-4e52-84c2-505bde9f7937.png)
 
+## PCA
+#### What can you expect
+Implementation of Principal Component Analysis and using Principal Coordinate Analysis to make a 2D map of the means
+#### Some results
+![image](https://user-images.githubusercontent.com/36880623/174907738-ae2f8e45-24ef-4d3d-8529-a5e7973f0b71.png)
+
